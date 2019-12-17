@@ -1,0 +1,22 @@
+{
+  "name": "h5-cache-manifest",
+  "version": "1.0.0",
+  "description": "cahce manifest for h5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynhao/h5-cache-manifest.git"
+  },
+  "author": "lynhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynhao/h5-cache-manifest/issues"
+  },
+  "homepage": "https://github.com/lynhao/h5-cache-manifest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html manifest="cache.manifest">
+<head>
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="./static/style/common-style.css">
+</head>
+<body>
+  <img src="./static/image/cat.png" width="100" height="50">
+  <img src="./static/image/sm.jpg" width="100" height="50">
+  <h2>您好，我的朋友</h2>
+
+  <script type="text/javascript">
+    window.addEventListner('oncached', (e) => {
+      console.log(e)
+    }, false)
+  </script>
+</body>
+</html>
