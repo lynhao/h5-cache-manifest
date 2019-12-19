@@ -25,4 +25,9 @@ cahce manifest for h5
   - 使用已经存在的离线资源
   - 检查mannifest是否更新
 
+# HOW TO WORK
 
+```bash
+npm install
+npm start
+```
